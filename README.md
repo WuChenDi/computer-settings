@@ -34,6 +34,7 @@
 - [Warp](https://www.warp.dev/): 主力 Terminal Emulator, 通过 AI 编写复杂命令
 - [Snipaste](https://snipaste.com/): 截图与贴图工具
 - [v2rayN](https://github.com/2dust/v2rayN): 科学上网工具
+- [TortoiseGit](https://tortoisegit.org/): 小乌龟
 
 ## Development environment
 
