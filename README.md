@@ -49,6 +49,10 @@
   - [JDK](https://adoptium.net/)
   - [Maven](https://maven.apache.org/)
 
+## Others
+
+- wallpaper: [wallhaven](https://wallhaven.cc/w/5w2wz9)
+
 ## 📜 License
 
 [MIT](./LICENSE) License &copy; 2025-PRESENT [wudi](https://github.com/WuChenDi)
