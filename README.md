@@ -37,6 +37,15 @@
 - [Warp](https://www.warp.dev/): 主力 Terminal Emulator, 通过 AI 编写复杂命令
 - [v2rayN](https://github.com/2dust/v2rayN): 科学上网工具
 - [TortoiseGit](https://tortoisegit.org/): 小乌龟
+- [Fiddler Everywhere](https://www.telerik.com/fiddler): 数据包抓取工具
+  - <details>
+      <summary>（免安装）绿色版</summary>
+
+      Windows 绿色版分享： [网盘下载：Fiddler Everywhere-5.14.0.7z](https://pan.baidu.com/s/115gb3ZWg2wHgZ91013uBYg?pwd=zsf5)  
+      下载后解压即可使用。文件与教程来源：[52pojie](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1948949&extra=page%3D1&page=1)
+
+      **小技巧**：若提示更新，可打开 `/resources/app/package.json`，将版本号改为当前最新版（如 `7.4.0`），即可绕过更新检测且不影响签名校验。
+    </details>
 - [macOs-cursor](https://zhutix.com/ico/macos-cursor-21/): 鼠标指针
 
 ## Development environment
