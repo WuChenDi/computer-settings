@@ -47,6 +47,7 @@
       **小技巧**：若提示更新，可打开 `/resources/app/package.json`，将版本号改为当前最新版（如 `7.4.0`），即可绕过更新检测且不影响签名校验。
     </details>
 - [macOs-cursor](https://zhutix.com/ico/macos-cursor-21/): 鼠标指针
+- [PotPlayer](https://potplayer.info/): 视频播放器
 
 ## Development environment
 
@@ -57,6 +58,7 @@
 - [Python](https://www.python.org/)
 - [Go](https://go.dev/)
 - [Rust](https://www.rust-lang.org/)
+  - [Visual Studio C++ Build tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/): 用于编译 C/C++ 代码 (win)
 - [Java](https://www.java.com/)
   - [JDK](https://adoptium.net/)
   - [Maven](https://maven.apache.org/)
