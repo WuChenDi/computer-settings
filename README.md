@@ -18,7 +18,11 @@
 
 ## macOS
 
-- [Homebrew](https://brew.sh/)
+- [Homebrew](https://brew.sh/) - 包管理工具 (brew install)
+  - [smartmontools](https://apple.stackexchange.com/questions/135565/how-do-i-get-detailed-smart-disk-information-on-os-x-mavericks-or-later) - 磁盘健康度
+  - [tig](https://jonas.github.io/tig/doc/manual.html) - 更方便的 git history
+  - [trash](https://hasseg.org/trash/) - 扔到垃圾桶 (用来代替 `rm -rf`)
+  - [tree](https://sourabhbajaj.com/mac-setup/iTerm/tree.html) - 显示文件夹树状结构
 - [Surge](https://nssurge.com/): 网络管理工具
 - [CleanMyMac](https://cleanmymac.com/): 系统清理工具
 - [App Cleaner & Uninstaller](https://app-cleaner.com/): 应用卸载工具
@@ -52,9 +56,11 @@
 ## Development environment
 
 - [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/)
+- [Node.js](https://nodejs.org/) - npm install -g [xxx]
   - [nvm](https://github.com/nvm-sh/nvm)
   - [nvm-windows](https://github.com/coreybutler/nvm-windows)
+  - [pnpm](https://pnpm.io/) - Used as a substitute for npm
+  - [serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [Python](https://www.python.org/)
 - [Go](https://go.dev/)
 - [Rust](https://www.rust-lang.org/)
