@@ -8,6 +8,7 @@
 - [Telegram](https://telegram.org/)
 - [Chrome](https://www.google.com/chrome/): 主力浏览器
 - [Raycast](https://www.raycast.com/): 不必多说
+- [Warp](https://www.warp.dev/): 主力 Terminal Emulator, 通过 AI 编写复杂命令
 - [VSCode](https://code.visualstudio.com/): 主力 IDE
 - [Cursor](https://cursor.com/): 逐渐替代 VSCode
 - [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/)
@@ -38,7 +39,6 @@
 - [DBeaver](https://dbeaver.io/): 数据库管理工具
 - [WSL2](https://docs.microsoft.com/en-us/windows/wsl/install): Windows 的 Linux 子系统
   - [Ubuntu](https://ubuntu.com/): Ubuntu 24.04 LTS
-- [Warp](https://www.warp.dev/): 主力 Terminal Emulator, 通过 AI 编写复杂命令
 - [v2rayN](https://github.com/2dust/v2rayN): 科学上网工具
 - [TortoiseGit](https://tortoisegit.org/): 小乌龟
 - [Fiddler Everywhere](https://www.telerik.com/fiddler): 数据包抓取工具
