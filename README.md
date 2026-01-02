@@ -30,7 +30,7 @@
 - [IINA](https://iina.io/): 视频播放器
 - [Downie](https://software.charliemonroe.net/downie/): 视频下载工具
 - [Keka](https://www.keka.io/): 压缩与解压工具
-- [Alfred](https://www.alfredapp.com/): 效率启动工具
+<!-- - [Alfred](https://www.alfredapp.com/): 效率启动工具 -->
 - [iStat Menus](https://bjango.com/mac/istatmenus/): 系统监控工具
 - [1Password](https://1password.com/): 密码管理工具
 
