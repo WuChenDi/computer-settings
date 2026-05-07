@@ -1,5 +1,8 @@
 # Computer Settings
 
+> [!WARNING]
+> This repository has been moved to: [devkit](https://github.com/WuChenDi/devkit)
+
 记录在 `macOS` 和 `Windows` 上的电脑配置、常用软件列表与系统设置，方便在更换新设备或重装系统时快速恢复环境。
 
 ## General
